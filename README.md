@@ -1,17 +1,21 @@
 <h1 align="center">Mario Tamayo</h1>
 
 <p align="center">
-  Software Developer in Progress · DAM Student · Curious about AI
+  Software Developer in Progress · DAM Student · Future DAW · Interested in Applied AI
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,java,py,html,css,react,postgres,firebase,git,github,bash,linux" />
 </p>
 
 ---
 
-## 🧩 About Me
+## 🧠 About Me
 
-I’m currently building my foundations in software development.
+I'm building strong foundations in software development.
 
 Focused on:
-- Writing clean and structured code
+- Writing clean, structured code
 - Understanding systems, not just syntax
 - Expanding from Android into Web
 - Exploring how AI can support business decisions
@@ -21,27 +25,48 @@ Chasing competence.
 
 ---
 
-## 🚀 Current Stack
+## 🚀 Current Direction
 
-Kotlin · Jetpack Compose · Java  
-React (learning) · PostgreSQL  
-Git · Clean Architecture principles  
+📱 Android development (Kotlin & Compose)  
+🌐 Web expansion (React)  
+🗄 Backend fundamentals & databases  
+🧩 Clean architecture principles  
+🧠 AI curiosity — applied, not trendy  
 
 ---
 
-## 🏋 Outside Code
+## 🏋 Beyond the Screen
 
-Discipline through training.  
-Gym & combat sports mindset.  
-Motorcycles & mechanics.  
+Gym discipline.  
+Combat mindset.  
+Motorcycles & mechanical systems.  
 
 Same philosophy everywhere:
-Build. Improve. Repeat.
+
+> Build. Improve. Repeat.
+
+---
+
+## 🎮 Developer Mode
+
+```bash
+> mario.exe --status
+
+[ SYSTEM MODE ]
+Status      : Training Arc
+Level       : DAM
+Next Unlock : DAW / AI Specialization
+Focus       : Systems Thinking
+Discipline  : Enabled
+AI Interest : Active
+```
 
 ---
 
 ## 📌 Current Goal
 
 Finish DAM strong.  
-Start DAW or AI specialization sharper.  
+Start the next stage sharper.  
 Build something meaningful.
+
+
