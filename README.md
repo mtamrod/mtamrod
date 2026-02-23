@@ -24,7 +24,7 @@
 
 ---
 
-## 🧠 About Me
+## ⎔ About
 
 I'm building strong foundations in software development.
 
@@ -39,7 +39,7 @@ Chasing competence.
 
 ---
 
-## 🚀 Current Direction
+## ⇢ Current Direction
 
 📱 Android development (Kotlin & Compose)  
 🌐 Web expansion (React)  
@@ -49,7 +49,7 @@ Chasing competence.
 
 ---
 
-## 🏋 Beyond the Screen
+## ⚙ Beyond the Screen
 
 Gym discipline.  
 Combat mindset.  
@@ -61,7 +61,7 @@ Same philosophy everywhere:
 
 ---
 
-## 🎮 Developer Mode
+## > Developer Mode
 
 ```bash
 $ run mario.exe
@@ -76,7 +76,7 @@ System ready.
 
 ---
 
-## 📌 Current Goal
+## ⌁ Current Goal
 
 Finish DAM strong.  
 Start the next stage sharper.  
