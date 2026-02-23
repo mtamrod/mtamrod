@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,java,py,html,css,react,postgres,firebase,git,github,bash" />
+  <img src="https://skillicons.dev/icons?i=kotlin,java,py,html,css,postgres,firebase,git,github,bash" />
 </p>
 
 <p align="center">
