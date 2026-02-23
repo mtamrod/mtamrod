@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/banner.png" />
+</p>
+
 <h1 align="center">Mario Tamayo</h1>
 
 <p align="center">
@@ -5,11 +9,15 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=900&center=true&vCenter=true&width=520&lines=Building+foundations...;Expanding+Knowledge+%E2%86%92+FullStack...;Exploring+Applied+AI..." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=900&center=true&vCenter=true&width=520&lines=Building+foundations...;Expanding+Knowledge...;Exploring+Applied+AI..." />
 </p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=kotlin,java,py,html,css,react,postgres,firebase,git,github,bash" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-FullStack%20%2B%20AI-informational?style=for-the-badge" />
 </p>
 
 ---
