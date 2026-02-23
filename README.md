@@ -1,11 +1,15 @@
 <h1 align="center">Mario Tamayo</h1>
 
 <p align="center">
-  Software Developer in Progress · DAM Student · Future DAW · Interested in Applied AI
+  Software Developer in Progress · DAM Student · Interested in Applied AI
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,java,py,html,css,react,postgres,firebase,git,github,bash,linux" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=900&center=true&vCenter=true&width=520&lines=Building+foundations...;Expanding+Knowledge+%E2%86%92+FullStack...;Exploring+Applied+AI..." />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,java,py,html,css,react,postgres,firebase,git,github,bash" />
 </p>
 
 ---
@@ -31,7 +35,7 @@ Chasing competence.
 🌐 Web expansion (React)  
 🗄 Backend fundamentals & databases  
 🧩 Clean architecture principles  
-🧠 AI curiosity — applied, not trendy  
+🧠 AI curiosity — applied, not trendy
 
 ---
 
@@ -50,15 +54,14 @@ Same philosophy everywhere:
 ## 🎮 Developer Mode
 
 ```bash
-> mario.exe --status
+$ run mario.exe
 
-[ SYSTEM MODE ]
-Status      : Training Arc
-Level       : DAM
-Next Unlock : DAW / AI Specialization
-Focus       : Systems Thinking
-Discipline  : Enabled
-AI Interest : Active
+Initializing foundations...
+Loading Kotlin modules...
+Expanding to Web stack...
+Exploring AI systems...
+
+System ready.
 ```
 
 ---
