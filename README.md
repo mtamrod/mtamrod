@@ -2,6 +2,8 @@
   <img src="./assets/banner.png" />
 </p>
 
+---
+
 <h1 align="center">Mario Tamayo</h1>
 
 <p align="center">
