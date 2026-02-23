@@ -41,11 +41,11 @@ Chasing competence.
 
 ## ⇢ Current Direction
 
-📱 Android development (Kotlin & Compose)  
-🌐 Web expansion (React)  
-🗄 Backend fundamentals & databases  
-🧩 Clean architecture principles  
-🧠 AI curiosity — applied, not trendy
+Android      — Kotlin & Compose  
+Web          — React (expansion phase)  
+Backend      — Databases & core concepts  
+Architecture — Clean structural design  
+AI           — Applied exploration
 
 ---
 
