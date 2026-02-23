@@ -1,16 +1,47 @@
-## Hi there 👋
+<h1 align="center">Mario Tamayo</h1>
 
-<!--
-**mtamrod/mtamrod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Software Developer in Progress · DAM Student · Curious about AI
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧩 About Me
+
+I’m currently building my foundations in software development.
+
+Focused on:
+- Writing clean and structured code
+- Understanding systems, not just syntax
+- Expanding from Android into Web
+- Exploring how AI can support business decisions
+
+Not chasing hype.  
+Chasing competence.
+
+---
+
+## 🚀 Current Stack
+
+Kotlin · Jetpack Compose · Java  
+React (learning) · PostgreSQL  
+Git · Clean Architecture principles  
+
+---
+
+## 🏋 Outside Code
+
+Discipline through training.  
+Gym & combat sports mindset.  
+Motorcycles & mechanics.  
+
+Same philosophy everywhere:
+Build. Improve. Repeat.
+
+---
+
+## 📌 Current Goal
+
+Finish DAM strong.  
+Start DAW or AI specialization sharper.  
+Build something meaningful.
